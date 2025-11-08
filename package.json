@@ -77,5 +77,8 @@
     "*.{md,mdx}": [
       "pnpm update:lastmodified"
     ]
+  },
+  "volta": {
+    "node": "22.11.0"
   }
 }
